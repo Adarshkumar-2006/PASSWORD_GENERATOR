@@ -68,19 +68,8 @@ This tool generates strong passwords locally and does **not** transmit or store 
 ---
 
 ## 📄 Example
+<img width="428" height="435" alt="image" src="https://github.com/user-attachments/assets/f0ad4b6a-8ba8-4d47-88be-7b02679aee6c" />
 
-```plaintext
-Password Length: [12]
-[✔] Include Uppercase
-[✔] Include Lowercase
-[✔] Include Digits
-[✔] Include Symbols
-
-[Generate Password]
-
-Generated: @9Gp!cL1wQv&
-[Copy to Clipboard]
-```
 
 ---
 
